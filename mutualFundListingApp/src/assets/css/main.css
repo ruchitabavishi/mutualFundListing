@@ -1,0 +1,65 @@
+.wrapper-class {
+    max-width: 1150px;
+    margin: auto;
+    padding: 0 20px;
+    font-family: sans-serif
+}
+.my8{
+    margin-top: 8px;
+    margin-bottom: 8px
+}
+.subtitle-color{
+    color: #00c0ff;
+}
+.bold{
+    font-weight: bold
+}
+.color-10{
+    color: #707780;
+}
+.color-20{
+    color: #00c0ff
+}
+.mt40{
+    margin-top: 40px
+}
+.flex{
+    display: flex
+}
+.w-half{
+    width: 50%;
+}
+.float-right{
+    float: right;
+}
+.py16{
+    padding-top: 16px;
+    padding-bottom: 16px
+}
+.block{
+    display: block
+}
+.mr16{
+    margin-right: 16px;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.inline{
+    display: inline
+}
+.relative{
+    position: relative;
+}
+.absolute{
+    position: absolute;
+}
+.font14{
+    font-size: 14px;
+}
+.mb80{
+    margin-bottom: 80px
+}
+.ml32{
+    margin-left: 32px
+}
